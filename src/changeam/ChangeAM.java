@@ -27,7 +27,7 @@ MethodInfo yourMethod = instance
 var returnValue = yourMethod.Invoke(instance, new object[] { });
 Console.WriteLine(returnValue);*/
        // a1.show();
-       
+       dss
     }
     public void n1()
     {
